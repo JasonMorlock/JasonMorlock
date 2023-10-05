@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @JasonMorlock
+- I am a graduate of New Jersey Institute of Technology - B.S. Mechanical Engineering
+- During my undergrad, I worked as a TA for the Fundementals of Engineering Design (FED101) lab for general engineering students.
+- The curriculum consisted of introductory lessons in CAD, C++, and circuitry. During this time, I was involved in research with the educational team.
+- We produced a robotic hand project to give our students a hands-on approach to learning.
+- This project is available on my page along with a research paper we wrote for the 2023 ASEE National Conference. Please reproduce this project in your class.
